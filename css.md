@@ -146,6 +146,6 @@ _`none` is the value assigned to `text-decoration` to remove underlines from lin
 
 ## Conclusion
 
-Understanding the anatomy of a CSS selector is essential for creating structured and effective stylesheets. By mastering different selector types, you can precisely target elements and enhance your web designs efficiently.
+Understanding the anatomy of a CSS selector is essential for creating structured and well planned stylesheets. By learning different selector types, you can precisely target elements and enhance your web designs efficiently.
 
-For more practice and tutorials, check out [W3 Schools](https://www.w3schools.com/css/default.asp)
+For more practice and tutorials, check out [W3 Schools.](https://www.w3schools.com/css/default.asp)
