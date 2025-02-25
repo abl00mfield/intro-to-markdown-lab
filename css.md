@@ -120,7 +120,7 @@ _`none` is the value assigned to `text-decoration` to remove underlines from lin
 
    ```css
    a:hover {
-     color: red;
+     color: pink;
    }
    ```
 
@@ -130,7 +130,7 @@ _`none` is the value assigned to `text-decoration` to remove underlines from lin
 
    ```css
    p::first-line {
-     font-weight: bold;
+     font-size: 24px;
    }
    ```
 
